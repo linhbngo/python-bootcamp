@@ -1,5 +1,5 @@
 # python-bootcamp
-A Python Bootcamp based on Data Carpentry's Introduction to Python for 
+A Python Bootcamp based on Data Carpentry's Introduction to Python for Ecologists
 
 ## https://github.com/linhbngo/python-bootcamp
 
